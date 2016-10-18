@@ -1,0 +1,31 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "A simple command line tic-tac-toe app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/APantelides/tic-tac-toe.git"
+  },
+  "keywords": [
+    "tic",
+    "tac",
+    "toe",
+    "tic-tac",
+    "tic-tac-toe",
+    "game"
+  ],
+  "author": "Alexander Pantelides",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/APantelides/tic-tac-toe/issues"
+  },
+  "homepage": "https://github.com/APantelides/tic-tac-toe#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "prompt": "^1.0.0"
+  }
+}
